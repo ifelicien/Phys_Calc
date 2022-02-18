@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class averageCalculator {
+public class averageCalculator extends Main {
     public static void Average (String[] args) {
         Scanner myObj = new Scanner(System.in);
         int run = 0;
